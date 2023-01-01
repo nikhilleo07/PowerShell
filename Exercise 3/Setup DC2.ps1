@@ -5,7 +5,7 @@ Run one line at a time, under supervision!
 
 $REMOTE_SERVER = 'server-1'
 # Set the domain name
-$FOREST = 'ads.solarsubmaines.com'
+$FOREST = 'ads.solarsubmarines.com'
 
 # Connect to server-1
 Enter-PSSession $REMOTE_SERVER
