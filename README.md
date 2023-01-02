@@ -41,7 +41,7 @@ This Powershell repository provides an overview of powershell 5/powershell 7 and
 | Exercises_04 | Using PowerShell DSC is executed on the windows server VM. On compiling the DSC file MOF file was created and is saved in the script name directory. The DSC configuration is then applied, and the text file generated despite the warning is executed and Hello World output is achieved. The DSC configuration is then removed and is verified by checking the DSC configuration store. |
 
 
-- Clone the Python repo to local machine.
+- Clone the PowerShell repo to local machine.
 
 ```
 
