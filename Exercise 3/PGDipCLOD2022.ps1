@@ -1,5 +1,5 @@
 ﻿#Enter a path to your import CSV file
-$ADUsers = Import-csv C:\Powershell\WT3\PGDipCLOD2022.csv
+$ADUsers = Import-csv M:\Cloud\GitHub1\PowerShell\Exercise3\PGDipCLOD2022.csv
 
 # Typo in the domain name!!!!
 $Organisation = "DC=ads,DC=solarsubmaines,DC=com"
